@@ -5,7 +5,7 @@ import javax.swing.JOptionPane;
 import businesstier.MenuBusinessTier;
 /*
  * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
+ * To change   this template file, choose Tools | Templates
  * and open the template in the editor.
  */
 
@@ -16,6 +16,7 @@ import businesstier.MenuBusinessTier;
 public class CreateMenu extends javax.swing.JFrame {
 
     /**
+
      * Creates new form CreateMenu
      */
     public CreateMenu() {

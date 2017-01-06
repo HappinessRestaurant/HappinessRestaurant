@@ -4,7 +4,7 @@ package domain;
 import javax.swing.JOptionPane;
 
 public class Order {
-    private static String order_no="O1000";
+    private static String order_no="O1001";
     private String seat_no;
     private String item;
     private double price;

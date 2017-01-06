@@ -20,7 +20,7 @@ public class CreateMenu extends javax.swing.JFrame {
      */
     public CreateMenu() {
         initComponents();
-         getContentPane().setBackground(new Color(255, 255, 190));
+         getContentPane().setBackground(new Color(255, 255, 191));
          this.setLocationRelativeTo(null);
     }
 

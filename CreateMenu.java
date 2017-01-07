@@ -2,7 +2,7 @@ package happinessrestaurant;
 import domain.Menu;
 import java.awt.Color;
 import javax.swing.JOptionPane;
-import businesstier.MenuBusinessTier;
+import businesstier.MenuBusinessTier; 
 /*
  * To    change this    license  header, c   hoose License Headers in Project Properties.
  * To change   this template file, choose Tools | Templates
